@@ -2,6 +2,10 @@
 
 A simple web application that allows users to search for recipes and view detailed information about each meal.
 
+## Live Demo
+
+https://raghad795.github.io/recipe-finder/
+
 ## Features
 
 * Search for recipes by name
